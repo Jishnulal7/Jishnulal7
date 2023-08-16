@@ -1,5 +1,5 @@
 <meta name="description" content="GitHub profile in green color">
-<meta name="keywords" content="Flutter Developer, GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, Python, C#, C++, C, Java, PHP, PostgreSQL, MySQL, MongoDB"/>
+<meta name="keywords" content="Flutter Developer, GitHub Stats, GitHub Profile, JavaScript, Flutter, HTML5, CSS3, Dart, Python, C, PHP, MySQL"/>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
@@ -13,7 +13,7 @@
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jishnulal7&show_icons=true&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonRPM&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnulal7&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
   </a>
 </div> 
    
