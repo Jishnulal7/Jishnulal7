@@ -47,13 +47,10 @@
       <img align="center" alt="Logo of PHP" height="30" width="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     </a>
     <a href="#">
-      <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    </a>
-    <a href="#">
       <img align="center" alt="Logo of MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
     </a>
     <a href="#">
-      <img align="center" alt="Logo of Firebase" height="30" width="40" title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg">
+      <img align="center" alt="Logo of Firebase" height="30" width="40" title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
     </a>
   </p>
 </div>
