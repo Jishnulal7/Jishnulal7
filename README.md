@@ -15,6 +15,7 @@
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnulal7&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
   </a>
+  
 </div> 
    
 <br>
@@ -51,6 +52,12 @@
     </a>
     <a href="#">
       <img align="center" alt="Logo of Firebase" height="30" width="40" title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+    </a>
+      <a href="#">
+      <img align="center" alt="Logo of Postman" height="30" width="40" title="Postman" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
+    </a>
+      <a href="#">
+      <img align="center" alt="Logo of Figma" height="30" width="40" title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
     </a>
   </p>
 </div>
